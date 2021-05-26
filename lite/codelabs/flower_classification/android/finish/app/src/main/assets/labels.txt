@@ -1,5 +1,6 @@
-daisy
-dandelion
-roses
-sunflowers
-tulips
+cardboard
+glass
+metal
+paper
+plastic
+trash
