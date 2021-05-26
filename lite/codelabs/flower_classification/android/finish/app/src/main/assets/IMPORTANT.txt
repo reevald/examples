@@ -1,0 +1,11 @@
+Github limits the file size to 25 MB for uploads.
+Model size (float) ~ 84 MB
+
+Solution:
+1) Download model_float.tflite
+at the link: https://github.com/reevald/craftivity-data/blob/main/models/tflite/model-float.tflite
+2) Rename it to model.tflite
+3) Download the directory "examples / lite / codelabs / flower_classification / android / finish"
+4) Copy model.tflite into the directory:
+"examples / lite / codelabs / flower_classification / android / finish / app / src / main / assets"
+5) Ready to build apk
